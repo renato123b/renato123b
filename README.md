@@ -1,4 +1,5 @@
-## Hi there <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTViMHJvMXN0NXNrbmlzYTl3bTJ6bGo3ZTN0eWNpOGV5ZHdnd2tkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" width="59px">
+## Hi there <img src="https://github.com/user-attachments/assets/9857e5b8-467a-4555-8d90-ef0841c592b0" width="109px">
+
 
 <!--
 **renato123b/renato123b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
