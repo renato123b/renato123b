@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/renato-almeida-413508142)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya.pal23/)  &nbsp; 
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:renatocarvalho1403@gmail.com)
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](https://mail.google.com/mail/?view=cm&to=renatocarvalho1403@gmail.com)
+
 
 
   
