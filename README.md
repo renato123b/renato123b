@@ -34,11 +34,13 @@ Here are some ideas to get you started:
 
 
   
-  #### 👨🏻‍💻 Languages and Tools <br />
+ #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png"></code>
   <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp"></code>
   <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png?f=webp"></code>
+  <code><img height="40" src="https://www.git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTViMHJvMXN0NXNrbmlzYTl3bTJ6bGo3ZTN0eWNpOGV5ZHdnd2tkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" width="195">
   
