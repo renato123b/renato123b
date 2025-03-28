@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 #### 📫 How to reach me:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198452596918/)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/renato-almeida-carvalho-84ba34268?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO4iSDJKJTLCvqMmGGaEveQ%3D%3D)  &nbsp; 
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/renato_123b?igsh=NGF0bXV1MW9oaGtq)  &nbsp;  
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](https://mail.google.com/mail/?view=cm&to=renatocarvalho1403@gmail.com)
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/renato_123b?igsh=NGF0bXV1MW9oaGtq)  &nbsp;  [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](https://mail.google.com/mail/?view=cm&to=renatocarvalho1403@gmail.com)
 
 
   
