@@ -1,9 +1,13 @@
-## Hi there <img src=>
+## Hi there 
 
 
 <!--
 gatinho fofo
-"https://github.com/user-attachments/assets/9857e5b8-467a-4555-8d90-ef0841c592b0" width="109px"
+<img src=>"https://github.com/user-attachments/assets/9857e5b8-467a-4555-8d90-ef0841c592b0" width="109px"
+
+  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+ 
 
 **renato123b/renato123b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
- 
+
   - 🔭 Student of Computer Science
 
   
