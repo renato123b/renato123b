@@ -1,5 +1,11 @@
 ## Hi there 
 
+---
+
+> **⚠️ Nota:** Este perfil é destinado **exclusivamente para uso acadêmico**.  
+Aqui compartilho projetos, atividades e estudos relacionados à minha graduação e aprendizado em desenvolvimento.
+
+---
 
 <!--
 gatinho fofo
