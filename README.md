@@ -1,9 +1,16 @@
-## Hi there 
+## Hi there 👋
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Perfil%20Acadêmico-0078D7?style=for-the-badge&logo=bookstack&logoColor=white" alt="Perfil Acadêmico" />
+</p>
 
-> **⚠️ Nota:** Este perfil é destinado **exclusivamente para uso acadêmico**.  
-Aqui compartilho projetos, atividades e estudos relacionados à minha graduação e aprendizado em desenvolvimento.
+<div align="center">
+  
+⚠️ **Observação Importante**  
+Este perfil é destinado **exclusivamente para uso acadêmico**.  
+Aqui compartilho **projetos, estudos e atividades** relacionadas à minha graduação e aprendizado.
+
+</div>
 
 ---
 
